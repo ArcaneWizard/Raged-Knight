@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Raged-Knight/static/css/main.4c62189a.chunk.css",
+    "main.js": "/Raged-Knight/static/js/main.e4c1c4a3.chunk.js",
+    "main.js.map": "/Raged-Knight/static/js/main.e4c1c4a3.chunk.js.map",
+    "runtime-main.js": "/Raged-Knight/static/js/runtime-main.0fb93df4.js",
+    "runtime-main.js.map": "/Raged-Knight/static/js/runtime-main.0fb93df4.js.map",
+    "static/css/2.11829350.chunk.css": "/Raged-Knight/static/css/2.11829350.chunk.css",
+    "static/js/2.d037be00.chunk.js": "/Raged-Knight/static/js/2.d037be00.chunk.js",
+    "static/js/2.d037be00.chunk.js.map": "/Raged-Knight/static/js/2.d037be00.chunk.js.map",
+    "index.html": "/Raged-Knight/index.html",
+    "precache-manifest.d3f9ee6aecf514d6742973001fc0191d.js": "/Raged-Knight/precache-manifest.d3f9ee6aecf514d6742973001fc0191d.js",
+    "service-worker.js": "/Raged-Knight/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/Raged-Knight/static/css/2.11829350.chunk.css.map",
+    "static/css/main.4c62189a.chunk.css.map": "/Raged-Knight/static/css/main.4c62189a.chunk.css.map",
+    "static/js/2.d037be00.chunk.js.LICENSE.txt": "/Raged-Knight/static/js/2.d037be00.chunk.js.LICENSE.txt",
+    "static/media/Gameplay.PNG": "/Raged-Knight/static/media/Gameplay.f1767473.PNG",
+    "static/media/Menu.PNG": "/Raged-Knight/static/media/Menu.b468186a.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0fb93df4.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.d037be00.chunk.js",
+    "static/css/main.4c62189a.chunk.css",
+    "static/js/main.e4c1c4a3.chunk.js"
+  ]
+}
